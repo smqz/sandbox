@@ -1,15 +1,15 @@
 {
-  "title": "Sandbox",
-  "name": "sandbox",
-  "description": "Test Sandbox",
-  "version": "0.0.1",
-  "homepage": "https://github.com/smqz/sandbox",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/smqz/sandbox.git"
-  },
-  "author": {
-    "name": "Sergey Mamyan"
-  },
-  "license": "MIT"
+    "title": "Sandbox",
+    "name": "sandbox",
+    "description": "Test Sandbox",
+    "version": "0.0.1",
+    "homepage": "https://github.com/smqz/sandbox",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/smqz/sandbox.git"
+    },
+    "author": {
+        "name": "Sergey Mamyan"
+    },
+    "license": "MIT"
 }
