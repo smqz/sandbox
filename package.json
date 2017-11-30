@@ -8,7 +8,7 @@
         "type": "git",
         "url": "https://github.com/smqz/sandbox.git"
     },
-    "main":"./index",
+    "main":"./src/index",
     "author": {
         "name": "Sergey Mamyan"
     },
