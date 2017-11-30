@@ -1,10 +1,7 @@
-import React from "react";
+import { User } from './models/user';
 
+let user = new User({
+  name: 'Something'
+})
 
-class One {
-  constructor(){
-    console.info("One",React)
-  }
-}
-
-new One();
+console.info(user);

@@ -1,5 +1,6 @@
 import * as React from 'react';
 import './App.css';
+import './index';
 
 class App extends React.Component<any, any> {
 	render() {
